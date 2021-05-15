@@ -1,0 +1,7 @@
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\bin\Debug\DoubleTriangle.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\bin\Debug\DoubleTriangle.exe
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\bin\Debug\DoubleTriangle.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\obj\Debug\DoubleTriangle.csprojAssemblyReference.cache
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\obj\Debug\DoubleTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\obj\Debug\DoubleTriangle.exe
+C:\Users\Αλευρά Γεωργία\source\repos\DoubleTriangle\DoubleTriangle\obj\Debug\DoubleTriangle.pdb
